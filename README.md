@@ -1,2 +1,2 @@
 # WDCNN_classifier
-WDCNN Simple Classifier
+Code for a simple WDCNN model using the Paderborn dataset
